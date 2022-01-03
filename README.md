@@ -8,6 +8,7 @@
 - ✨ VanillaJs Bead weaving pattern App - [Github Pages](https://ennoriel.github.io/bead-pattern/) (V2 coming written is [Svelte](https://github.com/sveltejs/svelte) ⚡)
 - 🔭 Fully responsive Mendeleev Table - [Github Pages](https://ennoriel.github.io/mendeleev/)
 - 📈 XV<sup>th</sup> legislature amendments data vizualization [35000 data] - [Repository](https://github.com/Ennoriel/data-viz-amendements)
+- 😀 Unicode Emoji Search Engine - [Github Pages](https://ennoriel.github.io/unicode-emoji-search-engine/)
 
 #### Libraries
 
