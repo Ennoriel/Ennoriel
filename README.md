@@ -9,18 +9,13 @@
  
 #### Libraries
 
-- 🌱 author of a customizable Svelte color picker - [doc](https://svelte-awesome-color-picker.vercel.app/) - 70+ ⭐
-- 💻 author of a Svelte wrapper for reveal.js to make awesome presentations - [repo](https://github.com/Ennoriel/svelte-reveal.js)
-- 🤙 author of a Svelte & React library to display simple social media sharing buttons - [repo](https://github.com/Ennoriel/social-links)
-- 🔭 maintainer of a lightweight password strength checker - [demo](https://svelte.dev/repl/b5bf5871c99742e584da244b4bfeac92?version=3.44.3) - [repository](https://github.com/deanilvincent/check-password-strength) - 110+ ⭐
+- 🌱 Svelte color picker - [doc](https://svelte-awesome-color-picker.vercel.app/) - 90+ ⭐
+- 🦒 Svelte slider - [doc](https://github.com/Ennoriel/svelte-awesome-slider)
+- 💻 Svelte wrapper for reveal.js - [repo](https://github.com/Ennoriel/svelte-reveal.js)
+- 🤙 Svelte & React library to display simple social media sharing buttons - [repo](https://github.com/Ennoriel/social-links)
+- 🔭 Lightweight password strength checker - [demo](https://svelte.dev/repl/b5bf5871c99742e584da244b4bfeac92?version=4.2.8) - [repository](https://github.com/deanilvincent/check-password-strength) - 130+ ⭐
 
-#### Personal apps (all built with Svelte ⚡)
+#### Conferences
 
-- ✨ VanillaJs Bead weaving pattern App - [Live App](https://ennoriel.github.io/bead-pattern/) ([V2 in progress](https://miyuki2.vercel.app/))
-- 📈 XV<sup>th</sup> legislature amendments data viz - [Live App](https://data-viz-amendements.vercel.app/byDeputee/all)
-- 😀 Unicode Emoji Search Engine - [Live App](https://ennoriel.github.io/unicode-emoji-search-engine/)
-- 🔭 Fully responsive Mendeleev Table - [Live App](https://ennoriel.github.io/mendeleev/)
-
-#### My languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ennoriel&hide_title=true&line_height=105)
+- 2023 - Breizh Camp, SvelteKit à l'attaque des dinosaures - [replay youtube](https://www.youtube.com/watch?v=COXZ78AJVns)
+- 2023 - Bdx.io, SvelteKit à l'attaque des dinosaures - [repository](https://github.com/Svelte-Society-Fr/kit-demo)
