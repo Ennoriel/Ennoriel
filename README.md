@@ -1,25 +1,22 @@
 ### Hi there 👋
 
-👀 I am a Senior Svelte Freelancer (see my [blog](https://www.dev.machyme.fr/)). I can develop, review or teach about Svelte, Frontend and accessibility.
+👀 I am a Senior Svelte Freelancer. I develop, review and teach about Svelte, Frontend and accessibility.
 
 #### Apps built for my clients
 
-- 📟 Decision-making cyber-crisis simulation platform - [showcase site](https://alcyconie.com/offres-et-expertises-crise-cyber/logiciels-solutions-digitales/)
 - 🍀 Company site & blog - [SlowLettuce](https://slowlettuce.io/)
-- 🤿 Sport training search App - [[beta] Trouve Ton Sport](https://tts-demo.vercel.app/)
-
-#### Applications built for me & others
-
 - 🦥 Ecology watch - [site](https://green-news.vercel.app)
 - 🟧 Y Combinator news data viz - [site](https://y-combinator-news-trends.vercel.app/)
+- 🤿 Sport training search App - [[beta] Trouve Ton Sport](https://tts-demo.vercel.app/)
+- 📟 Decision-making cyber-crisis simulation platform - [showcase site](https://alcyconie.com/offres-et-expertises-crise-cyber/logiciels-solutions-digitales/)
 
 #### Libraries
 
 - 🌱 Svelte color picker - [doc](https://svelte-awesome-color-picker.vercel.app/) - 120+ ⭐
+- 🔭 Lightweight password strength checker (maintainer) - [demo](https://svelte.dev/repl/b5bf5871c99742e584da244b4bfeac92?version=4.2.8) - [repository](https://github.com/deanilvincent/check-password-strength) - 150+ ⭐
 - 🦒 Svelte slider - [doc](https://github.com/Ennoriel/svelte-awesome-slider)
 - 💻 Svelte wrapper for reveal.js - [repo](https://github.com/Ennoriel/svelte-reveal.js)
 - 🤙 Svelte & React library to display simple social media sharing buttons - [repo](https://github.com/Ennoriel/social-links)
-- 🔭 Lightweight password strength checker - [demo](https://svelte.dev/repl/b5bf5871c99742e584da244b4bfeac92?version=4.2.8) - [repository](https://github.com/deanilvincent/check-password-strength) - 150+ ⭐
 
 #### Conferences
 
